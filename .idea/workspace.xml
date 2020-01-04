@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="263320de-3dea-4655-ac85-427047508ad3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postgres-pod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/postgres-pod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis-pod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/redis-pod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result-app-pod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/result-app-pod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/voting-app-pod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/voting-app-pod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/worker-app-pod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/worker-app-pod.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/remotes/origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\JackSparrow\IdeaProjects\kube-voting-app\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vwl0vvfeIvC4n44np5Ds3BJL6S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JackSparrow\IdeaProjects\kube-voting-app" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="263320de-3dea-4655-ac85-427047508ad3" name="Default Changelist" comment="" />
+      <created>1578171818653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578171818653</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1578175010571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578175010572</updated>
+    </task>
+    <task id="LOCAL-00002" summary="SPECS changed to SPEC">
+      <created>1578175456868</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578175456868</updated>
+    </task>
+    <task id="LOCAL-00003" summary="SPECS changed to SPEC -2">
+      <created>1578177329554</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578177329554</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="SPECS changed to SPEC" />
+    <MESSAGE value="SPECS changed to SPEC -2" />
+    <option name="LAST_COMMIT_MESSAGE" value="SPECS changed to SPEC -2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1578171826586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Project_Structure/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578171826586" />
+    <state x="579" y="121" key="CommitChangelistDialog2" timestamp="1578177435652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="579" y="121" key="CommitChangelistDialog2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578177435652" />
+    <state x="184" y="92" key="DiffContextDialog" timestamp="1578177274938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="92" key="DiffContextDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578177274938" />
+    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1578174864662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="262" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578174864662" />
+    <state x="744" y="400" key="Github.CreatePullRequestDialog" timestamp="1578175648194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="744" y="400" key="Github.CreatePullRequestDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578175648194" />
+    <state x="819" y="414" key="Github.ShareDialog" timestamp="1578174602804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="819" y="414" key="Github.ShareDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578174602804" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1578174899956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578174899956" />
+    <state x="714" y="228" key="VCS.ChangeListViewerDialog" timestamp="1578177276153">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="228" key="VCS.ChangeListViewerDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578177276153" />
+    <state x="552" y="245" key="Vcs.Push.Dialog.v2" timestamp="1578177453772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="245" key="Vcs.Push.Dialog.v2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578177453772" />
+    <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1578174751653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="345" key="com.intellij.ide.util.TipDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578174751653" />
+    <state x="771" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578177722228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578177722228" />
+    <state x="724" y="324" key="git4idea.merge.GitMergeDialog" timestamp="1578175659584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="324" key="git4idea.merge.GitMergeDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578175659584" />
+    <state x="669" y="324" key="git4idea.merge.GitPullDialog" timestamp="1578175481806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="324" key="git4idea.merge.GitPullDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578175481806" />
+    <state x="752" y="400" key="git4idea.rebase.GitRebaseDialog" timestamp="1578177281931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="400" key="git4idea.rebase.GitRebaseDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578177281931" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1578171925962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578171925962" />
+  </component>
+</project>
